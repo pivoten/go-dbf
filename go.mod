@@ -1,4 +1,4 @@
-module github.com/Valentin-Kaiser/go-dbase
+module github.com/pivoten/go-dbf
 
 go 1.23.0
 
